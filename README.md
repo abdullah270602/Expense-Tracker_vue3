@@ -2,11 +2,11 @@
 Expense Tracker is a Vue 3 project that helps you track your income and expenses. You can add, update, and delete expenses, and it provides an overview of your balance.
 
 ## Features
--Track income and expenses.
--Add new transactions.
--Update existing transactions.
--Delete transactions.
--View balance.
+- Track income and expenses.
+- Add new transactions.
+- Update existing transactions.
+- Delete transactions.
+- View balance.
 
 ## Technologies Used
 - Vue 3
